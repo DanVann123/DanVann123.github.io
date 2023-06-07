@@ -1,0 +1,61 @@
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+         Times, serif;
+     color: white;
+   background-color: rgb(46, 46, 46) }
+
+  ul.navbar {
+   background-color: black;
+   list-style-type: none;
+   padding: 0;
+   margin: 0;
+ position: absolute;
+   top: 1em;
+   left: 1em;
+   width: 10em }
+
+   
+ h1 {
+   font-family: "Copperplate", fantasy;
+   margin-top:0.7em ;
+   text-align: center }
+
+   ul.navbar li {
+   background: black;
+   margin: 0.3em 0;
+   padding: 0.3em;
+   border-right: 1em solid black }
+
+ ul.navbar a {
+   text-decoration: none }
+
+ a:link {
+   color: white }
+
+ a:visited {
+   color: white }
+
+ ul h1 {
+   margin-top: 0.7em;
+ }
+
+ address {
+   margin-top: 1em;
+   padding-top: 1em;
+   border-top: thin dotted }
+
+ img {
+   width: 600px;
+   height: 350px;
+   margin-top: 2em;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+ }
+ p {
+   max-width: 60em; /* Adjust the maximum width as needed */
+   margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+ }
